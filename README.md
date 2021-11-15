@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Jamin Rahman Jim
 #### Student
-![Student]
 
 I'm a student of CSE from AIUB and I'm currently in my 6th semester.  
 
