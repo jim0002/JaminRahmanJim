@@ -2,7 +2,7 @@
 #### Student
 ![Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm a student of CSE from AIUB and I'm currently on my 6th semester.  
+I'm a student of CSE from AIUB and I'm currently in my 6th semester.  
 
 Skills: C++ / Java / C# / Python
 
