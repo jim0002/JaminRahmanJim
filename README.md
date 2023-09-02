@@ -3,9 +3,8 @@
 
 I'm a student of CSE from AIUB and I'm currently in my 6th semester.  
 
-Skills: C++ / Java / C# / Python
+Skills: C++ / Java / C# / Python / R / Latex
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Python 
 - 📫 How to reach me: jaminjim.aiub@gmail.com 
 
